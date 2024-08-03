@@ -13,4 +13,4 @@ curl https://get.volta.sh | bash
 # Install node using volta from the absolute path
 $HOME/.volta/bin/volta install node@lts
 
-echo "All done! You should run this command to finish up: source ~/.bashrc" 
+echo "All done! ☺ You should run this command to finish up: source ~/.bashrc" 
