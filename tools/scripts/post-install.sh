@@ -5,8 +5,6 @@ sudo apt update
 sudo apt upgrade -y
 sudo apt install curl vim build-essential gnome-tweaks git -y
 
-GitHub Repository: https://github.com/alexa-ngo/avg-dev/
-
 # Install Volta (volta.sh)
 curl https://get.volta.sh | bash
 
